@@ -2,7 +2,7 @@
 
 My name is Sarah and I’m the coolest UI developer you’ll ever meet.
 
-<img src = 'donnie.gif' alt = 'Donatello from Teenage Mutant Ninja Turtles types wildly on 90s desktop computer' width='300px' align='right'/>
+<img src='https://github.com/zarahzachz/zarahzachz/blob/master/donnie.gif' alt='Donatello from Teenage Mutant Ninja Turtles types wildly on 90s desktop computer' width='300px' align='right'/>
 
 - 😄 Pronouns: she/her
 - 🌎 I live in the **USA** 🇺🇸
