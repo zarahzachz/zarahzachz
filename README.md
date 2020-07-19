@@ -1,5 +1,5 @@
 
-# 👋 Howdy, y'all!
+# 🤠 Howdy, y'all!
 
 My name is Sarah and I’m the coolest UI developer you’ll ever meet.
 
