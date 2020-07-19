@@ -1,7 +1,8 @@
-
 # 🤠 Howdy, y'all!
 
 My name is Sarah and I’m the coolest UI developer you’ll ever meet.
+
+<img src = 'donnie.gif' alt = 'Awesome Matrix Code' width='300px' align='right'/>
 
 - 😄 Pronouns: she/her
 - 🌎 I live in the **USA** 🇺🇸
