@@ -11,5 +11,6 @@ My name is Sarah and I’m pretty neat.
 - 🛠 I use `.html`, `.css`, `.svg` and `.js`
 - 🌱 I'm learning about **11ty**, **Blender** and **ThreeJS**
 - 💬 Ask me anything about the **Teenage Mutant Ninja Turtles**
+- ⚡️ FACT! Mortal Kombat was created by four people in 10 months
 
 ![Visitor Count](https://profile-counter.glitch.me/zarahzachz/count.svg)
