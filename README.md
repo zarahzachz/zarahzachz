@@ -7,8 +7,8 @@ My name is Sarah and I’m pretty neat.
 - 😄 Pronouns: she/her
 - 🌎 I live in the **USA** 🇺🇸
 - 💰 I work for **Kroger**
-- 🌱 I'm learning about **Azure**, **Blender** and **Python**
+- 🌱 I'm learning about **11ty**, **Blender** and **ThreeJS**
 - 🔭 I build **Raspberry Pi** projects as a hobby
-- 💬 Ask me anything about **Hugo** or the **Teenage Mutant Ninja Turtles**
+- 💬 Ask me anything about the **Teenage Mutant Ninja Turtles**
 
 ![Visitor Count](https://profile-counter.glitch.me/zarahzachz/count.svg)
