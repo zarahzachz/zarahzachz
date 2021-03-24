@@ -7,10 +7,8 @@ My name is Sarah and I’m pretty neat.
 - 😄 Pronouns: she/her
 - 🌎 I live in the **USA** 🇺🇸
 - 💰 I work for **Kroger**
-- 🔭 I’m always working on my **personal website** 😅
 - 🛠 I use `.html`, `.css`, `.svg` and `.js`
-- 🌱 I'm learning about **11ty**, **Blender** and **ThreeJS**
+- 🌱 I'm learning about **Blender** and **Ruby**
 - 💬 Ask me anything about the **Teenage Mutant Ninja Turtles**
-- ⚡️ FACT! **Mortal Kombat** was created by four people in 10 months
 
 ![Visitor Count](https://profile-counter.glitch.me/zarahzachz/count.svg)
