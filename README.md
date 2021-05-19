@@ -12,7 +12,7 @@ My name is Sarah and I’m pretty neat.
 
 🌱 &nbsp;&nbsp;&nbsp; I'm learning about **Blender** and **ThreeJS**
 
-🔭 &nbsp;&nbsp;&nbsp; I’m currently attempting what I call **The Bos Run**, where I attempt to get off my butt and complete all the Wes Bos tutorials I've bought over the years
+🔭 &nbsp;&nbsp;&nbsp; I’m currently rebuilding my personal website using **Tailwind**, **Eleventy** and **Alpine**.
 
 💬 &nbsp;&nbsp;&nbsp; Ask me anything about the **Teenage Mutant Ninja Turtles** 
 
