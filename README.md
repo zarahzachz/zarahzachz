@@ -8,7 +8,7 @@ My name is Sarah and I’m pretty neat.
 
 🌎 &nbsp;&nbsp;&nbsp; I live in the **USA** 🇺🇸
 
-💰 &nbsp;&nbsp;&nbsp; I work for **Kroger**
+💰 &nbsp;&nbsp;&nbsp; I work for **Ad Hoc**
 
 🌱 &nbsp;&nbsp;&nbsp; I'm learning about **Blender** and **ThreeJS**
 
