@@ -10,9 +10,7 @@ My name is Sarah and I’m pretty neat.
 
 💰 &nbsp;&nbsp;&nbsp; I work for **Ad Hoc**
 
-🌱 &nbsp;&nbsp;&nbsp; I'm learning about **Blender** and **ThreeJS**
-
-🔭 &nbsp;&nbsp;&nbsp; I’m currently rebuilding my personal website using **Tailwind**, **Eleventy** and **Alpine**.
+👒 &nbsp;&nbsp;&nbsp; I’m currently building a design system using **Hugo**, **Alpine** and **Tailwind**
 
 💬 &nbsp;&nbsp;&nbsp; Ask me anything about the **Teenage Mutant Ninja Turtles** 
 
