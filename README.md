@@ -10,7 +10,7 @@ My name is Sarah and I’m pretty neat.
 
 💰 &nbsp;&nbsp;&nbsp; I work for **Ad Hoc**
 
-🔭 &nbsp;&nbsp;&nbsp; I’m interested in **design systems**, **animation** and **XR technologies**
+🔭 &nbsp;&nbsp;&nbsp; I’m interested in **mobile development**, **design systems** and **accessibility**
 
 💬 &nbsp;&nbsp;&nbsp; Ask me anything about the **Teenage Mutant Ninja Turtles** 
 
